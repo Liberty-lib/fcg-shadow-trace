@@ -1,0 +1,9 @@
+CASE-01 / RELEASE TRACE
+
+The public target uses three harmless identifiers:
+
+1. Author name
+2. Research direction
+3. Publication year of the first article
+
+Use only information the target intentionally published.
