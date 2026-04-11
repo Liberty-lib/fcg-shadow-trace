@@ -1,0 +1,9 @@
+CASE-01 / INITIAL NOTE
+
+The target's public notebook contains the search fragment:
+UnityKH1FS
+
+The target is not the operator using the handle m0onlake.
+After identifying the notebook, inspect the account linked from its sidebar.
+
+The next public evidence will be preserved as tag v0.1.
